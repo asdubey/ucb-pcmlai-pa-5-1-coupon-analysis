@@ -6,6 +6,17 @@ General analysis -
 
 4. Coupons for cheaper resturants , coffee house and carry out & take were accepted most.
 
+5. Percentage of coupon accepted for bar and coffee house - 
+  - 56.84 % of total coupan were accepted.
+  - 11.47 % of coupan accepted were for bar.
+  - 27.67 % of coupan accepted were for coffee house.
+6. Acceptance percentage for various categories -
+  - Restaurant(<20)  -  27.32 %
+  - Coffee House  -  27.67 %
+  - Carry out & Take away  -  24.41 %
+  - Bar  -  11.47 %
+  - Restaurant(20-50)  -  9.13 %
+
 
 Analysis of Bar coupons - 
 
@@ -17,6 +28,9 @@ Analysis of Bar coupons -
 Comparison of different criteria and coupon acceptance - 
 
 - 4.0 x more coupon acceptance by people who go to bar less than 3 time in a month when comared to people who go more than 3 time per month.
+  
+  ![bar_lessthan3_morethan3.png](images/bar_lessthan3_morethan3.png)
+
 - 49.0 % of all the drivers who go to the bar more than once a month are of age over 25.
 - 71.0 % of all the drivers who go to the bar more than once a month , had passengers that were not a kid and had occupation other than farming, fishing or forestry.
 - 71.32 % of people who go to bar more than once a month and accepted coupon, are didn't had kids or widows as passenger.
