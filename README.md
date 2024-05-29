@@ -45,6 +45,8 @@ Analysis of Coffee House coupons -
 -  50.0 % of coffee house coupons were accepted.
 -  We found that more coupons were used by drivers visting coffee house more.
 -  Coffee house coupons with longer expiration time(1d) are used more than the shorter duration coupon(2h)
+     ![bar_lessthan3_morethan3.png](images/bar_lessthan3_morethan3.png)
+
 -  66.0 % of people who go to coffee house more than once a month and accepted coupon, didn't had kids and are not married.
 -  68.63 % of people who go to coffee house more than once a month and accepted coupon, are under 30 years old earning less than 50k annually.     
 -  Younger people in all the income groups tend to use coffee house coupon.
